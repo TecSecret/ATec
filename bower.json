@@ -1,0 +1,17 @@
+{
+  "name": "atec",
+  "description": "atec",
+  "main": "",
+  "authors": [
+    "Rafael Nascimento <rafaelnlima@live.com>"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
